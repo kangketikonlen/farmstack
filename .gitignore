@@ -1,2 +1,5 @@
 # Environment Stuff
 env
+
+# Python Stuff
+__pycache__
